@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"ContadorManual "</string>
+    <string name="Contador">Boton Contador</string>
+    <string name="Reiniciar">Boton Reiniciar</string>
+</resources>
